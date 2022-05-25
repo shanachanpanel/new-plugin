@@ -1681,7 +1681,7 @@ function logos() {
 
   if (lgs >= 18) {
 
-    imp = 'https://telegra.ph/file/5a3377af0d75db31438b4.jpg'
+    imp = 'https://telegra.ph/file/80c69a32cb17f52011fd2.jpg'
 
   }
 
