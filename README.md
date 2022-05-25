@@ -46,8 +46,8 @@ Kamako is a bot that uses a script from Haori and is recoded by Harva
  ​apt install nodejs -y 
  ​apt install ffmpeg -y 
  ​apt install imagemagick -y 
- ​git clone https://github.com/Ipulpachri/fachribotzv3
- ​cd​ fachribotzv3
+ ​git clone https://github.com/Kamako011/kamako011
+ ​cd​ kamako011
  ​npm install 
  ​npm update 
  ​``` 
