@@ -25,6 +25,7 @@ BIG THANKS TO
 •Zeks
 •Rendycraft
 •Kamako
+•fachri
 •Nadin
 •Aca Mirabel
 •Penyedia Layanan API
