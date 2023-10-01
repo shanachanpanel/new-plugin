@@ -73,8 +73,8 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/kelvin01996'
-namagithub = 'https://github.com/kamako011'
+namaig = 'https://instagram.com/rizaedtz01'
+namagithub = 'https://github.com/kap360'
 kasihcaption = `Nih kak`
 namakontak1 = ''
 namakontak2 = ''
